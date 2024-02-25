@@ -1,7 +1,12 @@
-# About me
+<div align="center">
+  # About me
+</div>
 A 20-year-old who is always trying to learn.
 I am currently a fourth-semester computer engineering student and my specialty is machine learning and deep learning.
 
+<div align="center">
+  # Languages and Tools:
+</div>
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-593D88?style=for-the-badge&logo=python&logoColor=white"/>
