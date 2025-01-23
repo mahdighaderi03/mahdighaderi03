@@ -1,6 +1,6 @@
 <h1 align="center">About Mahdi</h1>
-A 20-year-old who is always trying to learn.
-I am currently a 5th computer engineering student specializing in machine learning and deep learning.
+A 21-year-old who is always trying to learn.
+I am currently a 6th computer engineering student specializing in machine learning and deep learning.
 
 
 <h1 align="center">Languages and Tools:</h3>
