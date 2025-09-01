@@ -1,18 +1,47 @@
-<h1 align="center">About Mahdi</h1>
-A 21-year-old who is always trying to learn.
-I am currently a 6th computer engineering student specializing in machine learning and deep learning.
+# Hi, I’m Mohammad Mahdi Ghaderi 👋  
 
+🎓 **Computer Engineering Student** at Islamic Azad University of Mashhad  
+💡 Passionate about **AI, Machine Learning, Deep Learning, Computer Vision, and Large Language Models (LLMs)**  
+🌍 Open to research collaborations and open-source contributions  
 
-<h1 align="center">Languages and Tools:</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-593D88?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
+---
 
+## 🔬 Research & Technical Experience  
+- 🧠 **Brain MRI Analysis (DICOM)** 
+- 👩‍⚕️ **Mammography Image Processing**  
+- 📚 **Large Language Models (LLMs)** – Research & fine-tuning  
+- 🎙️ **Speech Signal Processing & Modeling** 
+- 🌌 **Astronomical Image Processing (FITS)**  
+- ⚡ **EEG Data Processing**  
 
+---
 
+## 🛠 Skills & Expertise  
+- **Programming & Development**: Python, C++, Git  
+- **AI & Data Science**: Machine Learning, Deep Learning, Neural Networks, Computer Vision, LLMs  
+- **Web & Tools**: WordPress, SEO, n8n, Digital Marketing  
+- **Other**: Adobe tools, Astro Photography, Teaching, Public Speaking  
+
+---
+
+## 🏆 Awards & Achievements  
+- 🌠 Participant – **Astronomy Olympiad (2nd Stage, Iran 2020)**  
+- 💻 Competitor – **ICPC Asia Tehran, Online Regional 2024** (Team: DevSages, Rank: 127)  
+- 👨‍🏫 **Teaching Assistant** – Data Structures (Fall 2024, Islamic Azad University)  
+
+---
+
+## 📜 Certifications  
+- CS50x (Computer Science, Harvard University, 2023)  
+- CS50p (Programming with Python, Harvard University, 2023)  
+
+---
+
+## 📌 Let’s Connect!  
+- GitHub: [@mahdighaderi03](https://github.com/mahdighaderi03)  
+- LinkedIn: [Mohammad Mahdi Ghaderi](http://www.linkedin.com/in/mohammad-mahdi-ghaderi-a63459291)  
+- Email: **mahdi.ghaderi03@gmail.com**  
+
+---
+
+✨ Always eager to learn, build, and share knowledge in AI and beyond.  
