@@ -7,12 +7,12 @@
 ---
 
 ## 🔬 Research & Technical Experience  
-- 🧠 **Brain MRI Analysis (DICOM)** 
-- 👩‍⚕️ **Mammography Image Processing**  
+- 🧠 **Image processing (e.g., Brain MRI, Astronomical)**
+- ⚡ **Signal processing (e.g., EEG)**
+- 🎙️ **Speech Signal Processing & Modeling**
 - 📚 **Large Language Models (LLMs)** – Research & fine-tuning  
-- 🎙️ **Speech Signal Processing & Modeling** 
-- 🌌 **Astronomical Image Processing (FITS)**  
-- ⚡ **EEG Data Processing**  
+- 🧠 **Designing, Training, and Optimizing Neural Networks (e.g., CNNs)**
+- 🧠 **Graph Neural Networks (GNNs) – Training and Implementation (e.g., Multi-Scale Graph Attention Network)**  
 
 ---
 
