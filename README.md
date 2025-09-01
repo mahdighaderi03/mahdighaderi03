@@ -37,11 +37,4 @@
 
 ---
 
-## 📌 Let’s Connect!  
-- GitHub: [@mahdighaderi03](https://github.com/mahdighaderi03)  
-- LinkedIn: [Mohammad Mahdi Ghaderi](http://www.linkedin.com/in/mohammad-mahdi-ghaderi-a63459291)  
-- Email: **mahdi.ghaderi03@gmail.com**  
-
----
-
 ✨ Always eager to learn, build, and share knowledge in AI and beyond.  
